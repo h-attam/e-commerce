@@ -5,18 +5,6 @@ Bu depo, bir responsive yapıda geliştirilmiş e-ticaret platformu projesi içe
 -HTML
 -CSS
 
-# Ekran Görüntüleri
-
-![](images/Ekran%20Alıntısı1.PNG)
-
-![](images/Ekran%20Alıntısı2.PNG)
-
-![](images/Ekran%20Alıntısı3.PNG)
-
-![](images/Ekran%20Alıntısı4.PNG)
-
-![](images/Ekran%20Alıntısı5.PNG)
-
 # GIF
 
 ![](images/carrentalgif.gif)
